@@ -7,7 +7,7 @@ main()
 	scanf("%s", &name);
 	printf("Create a Password = ");
 	scanf("%i", &password);
-	printf("Account Created Successfullly \n");
+	printf("Account Created Successfully \n");
 	printf("Code By : Dev.Varun \n");
 	
 }
